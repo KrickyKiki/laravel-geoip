@@ -205,7 +205,7 @@ return [
     'SM' => 'EUR',
     'SN' => 'XOF',
     'SO' => 'SOS',
-    'SR' => 'SRD',
+    'SR' => 'RSD',
     'SS' => 'SSP',
     'ST' => 'STD',
     'SV' => 'USD',
